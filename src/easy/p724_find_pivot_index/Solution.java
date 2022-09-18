@@ -2,7 +2,7 @@ package easy.p724_find_pivot_index;
 
 /**
  * <a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a>
- * */
+ */
 public class Solution {
 
     public int pivotIndex(int[] nums) {

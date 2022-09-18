@@ -1,3 +1,10 @@
+package easy.p876_middle_of_the_linked_list;
+
+import base.ListNode;
+
+/**
+ * <a href="https://leetcode.com/problems/middle-of-the-linked-list/">876. Middle of the Linked List</a>
+ */
 public class Solution {
 
     public ListNode middleNode(ListNode head) {

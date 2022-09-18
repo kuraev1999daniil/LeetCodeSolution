@@ -2,7 +2,7 @@ package easy.p1480_running_sum_of_1d_array;
 
 /**
  * <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480. Running Sum of 1d Array</a>
- * */
+ */
 public class Solution {
 
     public int[] runningSum(int[] nums) {
