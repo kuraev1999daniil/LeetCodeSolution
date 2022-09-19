@@ -4,9 +4,9 @@
 
 ## Solved the problems
 
-[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [[repo]]()
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p205_isomorphic_strings)
 
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [[repo]]()
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p392_is_subsequence)
 
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p724_find_pivot_index)
 
