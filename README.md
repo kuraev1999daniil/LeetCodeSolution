@@ -8,6 +8,8 @@
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p392_is_subsequence)
 
+[704. Binary Search](https://leetcode.com/problems/binary-search/) - [[repo]]()
+
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p724_find_pivot_index)
 
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p876_middle_of_the_linked_list)
