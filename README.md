@@ -6,6 +6,8 @@
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p205_isomorphic_strings)
 
+[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) - [[repo]]()
+
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p392_is_subsequence)
 
 [704. Binary Search](https://leetcode.com/problems/binary-search/) - [[repo]]()
