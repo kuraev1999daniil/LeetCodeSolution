@@ -6,7 +6,7 @@
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p21_merge_two_sorted_lists)
 
-[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [[repo]]()
+[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p35_search_insert_position)
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p205_isomorphic_strings)
 
