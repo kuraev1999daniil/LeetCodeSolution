@@ -20,7 +20,7 @@
 
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p724_find_pivot_index)
 
-[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) - [[repo]]()
+[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/medium/p852_peak_index_in_a_mountain_array)
 
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p876_middle_of_the_linked_list)
 
