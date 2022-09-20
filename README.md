@@ -4,7 +4,11 @@
 
 ## Solved the problems
 
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1) - [[repo]]()
+
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p205_isomorphic_strings)
+
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan&id=level-1) - [[repo]]()
 
 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) - [[repo]](https://github.com/kuraev1999daniil/LeetCodeSolutions/tree/main/src/easy/p374_guess_number_higher_or_lower)
 
